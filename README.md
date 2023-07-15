@@ -1,7 +1,7 @@
 ## Projeto DSList 
 
 ## Descrição 
-O Projeto é uma aplicação Back-end desenvolvido durante o Intensivo Java Spring (Devsuperior).
+O Projeto é uma aplicação Back-end desenvolvida durante o Intensivo Java Spring (Devsuperior).
 A aplicação permite aos usuários pesquisar informações sobre diferentes jogos.
 
 ## Modelo
